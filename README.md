@@ -1,12 +1,10 @@
 # Git Tips
-Useful tips for collaborating on GitHub  
+Useful tips for collaborating on same GitHub repository:  
 
-Here are some tips for when multiple people are collaborating on the same GitHub repository:
+## 1. Avoid multiple people editing the same file. 
+When editing different files, there won't be any conflict when committing the file.
 
-## 1. Try to avoid multiple people editing the same file. 
-Can split a program into multiple files (in the main program file, can call functions from the multiple files)
-
-## 2. Avoid editing files directly from GitHub website
+## 2. Avoid editing files directly from the GitHub website
 In the event that multiple people must edit the same file, I recommend to edit files through local repository instead of editing files directly on the GitHub website. You can do so by cloning the repository to GitHub Desktop, and editing files through your local repository.
 Explanation:
 Con of editing on GitHub website:
