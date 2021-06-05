@@ -20,8 +20,8 @@ Alice commits her version first. When Bob commits his version, Alice's changes a
 
 On the other hand, editing files *on the cloned repository* won't lose any person's changes.  
 Using the example of Alice and Bob again... 
-- Alice commits and push changes to remote (GitHub website) first.  
-When Bob commits and push changes to remote, GitHub Desktop will warn him that the file has been changed by Alice. GitHub Desktop won't allow Bob's commit to be pushed to remote until he fixes the conflict.  
+- Alice commits and push changes to origin (GitHub website) first.  
+When Bob commits and push changes to origin, GitHub Desktop will warn him that the file has been changed by Alice. GitHub Desktop won't allow Bob's commit to be pushed to origin until he fixes the conflict.  
 Only after fixing the conflicts, can he commit the resulting file (with both Alice's and Bob's changes).
 - To reduce the number of conflicts to fix when committing, it's recommended to do pull requests regularly (and before starting to edit a file).
 
