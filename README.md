@@ -1,4 +1,4 @@
-# Git-Tips
+# Git Tips
 Useful tips for collaborating on GitHub  
 
 Here are some tips for when multiple people are collaborating on the same GitHub repository:
